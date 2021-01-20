@@ -1,3 +1,8 @@
+/* Author: Dhyani Desai
+   TexAd: Text Adventure Game
+   January 2021 	*/
+
+
 #include<iostream.h>
 #include<conio.h>
 #include<stdlib.h>
